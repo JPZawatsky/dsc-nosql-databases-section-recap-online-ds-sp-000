@@ -1,5 +1,5 @@
 
-# NoSQL Section Recap
+# NoSQL Databases - Recap
 
 
 ## NoSQL vs. SQL
